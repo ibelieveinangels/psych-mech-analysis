@@ -7,7 +7,7 @@ This project explores publicly available pharmacological and transcriptomic data
 - Analyze reported transcriptomic responses
 - Investigate links between mechanisms and adverse event profiles
 
-## Hi!!!
+### Hi!
 I am **Angel**.
 This is my **first Data Analysis project**, started on **2025-10-05**, created to self-teach tools and workflows used in **data analysis and bioinformatics**.
 Contact: [kuwana444@proton.me](mailto:kuwana444@proton.me)
@@ -28,6 +28,7 @@ Contact: [kuwana444@proton.me](mailto:kuwana444@proton.me)
 ---
 
 ## Repository Structure
+```
 psych-mech-analysis/
 │
 ├── data/ # Datasets (raw/processed, small demo versions only)
@@ -49,6 +50,7 @@ psych-mech-analysis/
 ├── requirements.txt # Python dependencies
 ├── LICENSE
 └── README.md
+```
 
 ---
 
